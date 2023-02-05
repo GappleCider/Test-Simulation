@@ -1,3 +1,9 @@
 # Test-AI
 
-<h3>A Simulation of natural selection</h3>
+## A Simulation of natural selection
+
+**Controls**
+
+* Q to zoom in
+* W to zoom out
+* Arrow keys to move map
